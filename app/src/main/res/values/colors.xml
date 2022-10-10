@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue_background">#20273E</color>
+    <color name="item_not_selected">#0B1434</color>
+    <color name="item_selected">#57659A</color>
+    <color name="navigation">#940B1434</color>
+    <color name="light_blue_background">#545C7A</color>
+    <color name="item_color">#3F465F</color>
+    <color name="background_week_item">#3F465F</color>
+    <color name="text_color_min">#868696</color>
+    <color name="minTemperature">#9B96E1</color>
+    <color name="text_color_dark">#D2D2D9</color>
+    <color name="text_color_dark_2">#B3B3B3</color>
+    <color name="text_color_light">#D9D9D9</color>
+    <color name="black">#FF000000</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal_200">#FFFFFFFF</color>
+    <color name="purple_500">#FFFFFFFF</color>
+    <color name="purple_700">#FFFFFFFF</color>
+    <color name="teal_700">#FFFFFFFF</color>
+    <color name="purple_200">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

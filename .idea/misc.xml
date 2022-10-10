@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable-anydpi/card_chosen.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable-anydpi/card_selected.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/card_back.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/card_selected1.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_arrow.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_atm_pressure.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_baseline_air_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_baseline_waves_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_drop.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_earch.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_thermometer.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_weather.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_day.xml" value="0.264" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_main.xml" value="0.46037735849056605" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_today.xml" value="0.4" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_today2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_week.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/weather_rv_item.xml" value="0.9721115537848606" />
+        <entry key="..\:/Users/renat/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/week_rv_item.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
