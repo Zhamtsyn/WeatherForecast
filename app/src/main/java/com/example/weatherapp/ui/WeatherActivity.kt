@@ -141,9 +141,24 @@ class WeatherActivity : AppCompatActivity() {
     }
 
     private fun permissionListener() {
-        pLauncher = registerForActivityResult(ActivityResultContracts.RequestPermission()) {
-            getLocation()
-        }
+        pLauncher =
+            registerForActivityResult(ActivityResultContracts.RequestPermission()) { granted ->
+                when {
+                    granted -> {
+                        getLocation()
+                    }
+                    else -> {
+                        pbLoading.visibility = View.INVISIBLE
+                        clNoData.visibility = View.VISIBLE
+
+                        btnAllowPermission.setOnClickListener {
+                            clNoData.visibility = View.GONE
+                            pbLoading.visibility = View.VISIBLE
+                            pLauncher.launch(Manifest.permission.ACCESS_FINE_LOCATION)
+                        }
+                    }
+                }
+            }
     }
 
     private fun checkPermission() {

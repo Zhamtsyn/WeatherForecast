@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">WeatherApp</string>
     <string name="tvNow">зараз</string>
+    <string name="noData">Не вдалось отримати дані</string>
+    <string name="allowPermission">Дозволити доступ до даних про місце розташування пристрою</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
